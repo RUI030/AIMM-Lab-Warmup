@@ -2,4 +2,9 @@
 
 The main target of this project is to create a nerual network to classifiy of given dataset.
 
-###### tensorflow  &nbsp; ###### keras &nbsp; ###### classifier &nbsp; ###### weather &nbsp; ###### classification &nbsp; ######images
+###### tensorflow
+###### keras
+###### classifier
+###### weather
+###### classification
+###### images
