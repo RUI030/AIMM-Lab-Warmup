@@ -3,6 +3,7 @@
 **The main target of this project is to create a nerual network to classifiy of given dataset.**
 
 1003 ver: DNN
+
 1016 ver: CNN
 
 ## Dataset
