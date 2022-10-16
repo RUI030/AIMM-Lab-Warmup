@@ -1,6 +1,6 @@
 # 20221016-WeatherClassification
 
-####  **The main target of this project is to create a nerual network to classifiy of given dataset.**
+**The main target of this project is to create a nerual network to classifiy of given dataset.**
 
 ## Dataset
 Ajayi, Gbeminiyi (2018), “Multi-class Weather Dataset for Image Classification”, Mendeley Data, V1, doi: 10.17632/4drtyfjtfy.1
