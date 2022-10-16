@@ -2,6 +2,9 @@
 
 **The main target of this project is to create a nerual network to classifiy of given dataset.**
 
+1003 ver: DNN
+1016 ver: CNN
+
 ## Dataset
 Ajayi, Gbeminiyi (2018), “Multi-class Weather Dataset for Image Classification”, Mendeley Data, V1, doi: 10.17632/4drtyfjtfy.1
 
