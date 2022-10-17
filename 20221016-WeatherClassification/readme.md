@@ -1,6 +1,6 @@
 # 20221016-WeatherClassification
 
-**The main target of this project is to create a nerual network to classifiy of given dataset.**
+**The main target of this project is to build a nerual network to classify the given dataset.**
 
 1003 ver: DNN
 
